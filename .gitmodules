@@ -1,0 +1,3 @@
+[submodule "it-cert-automation-practice"]
+	path = it-cert-automation-practice
+	url = https://github.com/google/it-cert-automation-practice.git
